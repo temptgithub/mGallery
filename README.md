@@ -1,6 +1,6 @@
 # mGallery
 Lightbox Gallery demonstration with dynamically generated picture descriptions - <br>
-<strong>This website is written using -   jQuery/Jav</strong>ascript, HTML, CSS  </strong> <br>
+<strong>This website is written using -   jQuery/Javascript, HTML, CSS  </strong> <br>
 The intent is to make a lightbox and also demonstrate how jQuery can be used to dynamically generate descriptions for easier website generation or maintenance.
 <br>
 Click on the following link to try it out: 
